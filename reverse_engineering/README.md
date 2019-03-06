@@ -78,6 +78,7 @@
 ### Reverse Engineering Tools
 
 * [Interactive Disassembler (IDA Pro)](https://www.hex-rays.com/products/ida/) - Proprietary multi-processor disassembler and debugger for Windows, GNU/Linux, or macOS; also has a free version, [IDA Free](https://www.hex-rays.com/products/ida/support/download_freeware.shtml).
+* [Ghidra](https://www.nsa.gov/resources/everyone/ghidra/) - A very powerful National Security Agency (NSA) reverse engineering framework developed by the NSA's [research directorate](https://www.nsa.gov/what-we-do/research/) for the agency's [cybersecurity mission](https://www.nsa.gov/what-we-do/cybersecurity/).
 * [WDK/WinDbg](https://msdn.microsoft.com/en-us/windows/hardware/hh852365.aspx) - Windows Driver Kit and WinDbg.
 * [OllyDbg](http://www.ollydbg.de/) - x86 debugger for Windows binaries that emphasizes binary code analysis.
 * [Radare2](http://rada.re/r/index.html) - Open source, crossplatform reverse engineering framework.
